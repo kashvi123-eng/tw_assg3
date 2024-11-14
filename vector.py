@@ -7,3 +7,6 @@ print("bye")
 
 print("hello")
 
+print("morning")
+
+print("night")
