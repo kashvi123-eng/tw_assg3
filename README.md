@@ -13,7 +13,7 @@ In this article we will learn about:
 A vector is a quantity that has both magnitude and direction. It is typically represented as an arrow, where the length of the arrow indicates the magnitude (size or amount) and the direction of the arrow shows the direction of the vector.
 >Vector is different from scalar.
 
-![](https://mathinsight.org/media/image/image/vector_a_plus_b.png)
+![Dot Product of rwo vectors](https://mathinsight.org/media/image/image/vector_a_plus_b.png)
 Link to this image: [Click here](https://mathinsight.org/media/image/image/vector_a_plus_b.png)
 **Types of vectors:**
 - 2 dimensional
