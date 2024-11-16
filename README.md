@@ -25,11 +25,11 @@ $$\| \mathbf{v} \| = \sqrt{v_1^2 + v_2^2 + \dots + v_n^2}$$
 
 *Dot product*
 The dot product of two vectors is the product of the magnitude of the two vectors and the cos of the angle between them.
->[!NOTE] a.b=|a||b| cosθ
+> [!NOTE] a.b=|a||b| cosθ
 
 *Cross product*
 The cross product (also called the vector product) is a mathematical operation between two vectors in three-dimensional space that produces a new vector that is perpendicular to both of the original vectors.
->[!NOTE] a x b=|a||b| sinθ
+> [!NOTE] a x b=|a||b| sinθ
 
 Here is the code for implementing dot product[^1].
 [^1]: import numpy as np 
