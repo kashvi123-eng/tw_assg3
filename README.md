@@ -15,7 +15,7 @@ A vector is a quantity that has both magnitude and direction. It is typically re
 
 ![Dot Product of rwo vectors](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-product-of-vectors-1626103027.png)
 
-Link to this image: [Click here](https://mathinsight.org/media/image/image/vector_a_plus_b.png)
+Link to this image: [Click here](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/dot-product-of-vectors-1626103027.png)
 
 **Types of vectors:**
 - 2 dimensional
